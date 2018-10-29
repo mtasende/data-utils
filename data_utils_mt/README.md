@@ -1,8 +1,8 @@
 # Data Utils
-Utility functions for Pandas and Data Analysis
+Utility functions for Pandas and Data Analysis. This package is available through PyPI.
 
 ## Installations
-This project was created using Python 3.
+This project was created using Python 3. To install:
 ```
 pip install data-utils
 ```
