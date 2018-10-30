@@ -9,7 +9,7 @@ pip install data-utils-mt
 Scipy and Numpy are required.
 
 ## Project Motivation
-This package was uploaded as part of the
+This package is a way to centralize and make available some utility functions that I create and use while working with data.
 
 ## How to interact with the project
 Below are some examples of usage:
